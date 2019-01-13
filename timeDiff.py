@@ -1,6 +1,7 @@
 # Filename: TimeDiff.py
 # Created by: Brady Collier
 # Date created: 01/13/19
+# Description: 
 
 def timeDiff():
     f_time = int(input("Please enter the first time in 4 digit military format (e.g., 1330): "))
