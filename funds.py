@@ -26,9 +26,9 @@ def funds():
     match_amount = (gross_amount * percent_match)
 
     # Prints all the amounts that were calculated
-    print("Gross concert proceeds: ", gross_amount)
-    print("Matched proceeds: %.2f" % match_amount)
-    print("Total funds raised: %.2f" % (gross_amount + match_amount))
+    print("Gross concert proceeds: $%.2f" % gross_amount)
+    print("Matched proceeds: $%.2f" % match_amount)
+    print("Total funds raised: $%.2f" % (gross_amount + match_amount))
 
 
 funds()
