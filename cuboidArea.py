@@ -33,5 +33,5 @@ def cuboid():
     print("Depth of the cuboid: %.2f" % depth)
     print("Surface area of the cuboid: %.2f" % surface_area)
 
-
+# Runs function
 cuboid()
